@@ -1,0 +1,178 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+   font-family: 'Cinzel', serif;
+   font-family: 'Poppins', sans-serif;
+   }
+   .head{
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    height: 80vh;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    padding-top: 12%;
+    color: azure;
+}
+h4{
+    color: rgb(174, 184, 184);
+}
+#link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(238, 11, 11),rgb(187, 28, 28));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}
+.donate{
+    text-align: center;
+    padding-top: 5%;
+}
+section{
+    display: flex;
+}
+.taka{
+    text-align: center;
+}
+#a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(138, 129, 129),rgb(255, 255, 255));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}
+#b{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(233, 106, 106),rgb(243, 127, 127));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}
+   
+#c{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(121, 113, 113),rgb(245, 245, 245));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px 
+}
+#d{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(139, 135, 135),rgb(255, 255, 255));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px 
+}
+#e{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(141, 133, 133),rgb(255, 255, 255));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px 
+}
+.other{
+    text-align: center;
+    padding-top: 3%;
+}
+#rule{
+    width: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.center{
+    text-align: center;
+    padding-top: 7%;
+}
+section{
+    display: flex;
+
+}
+.food{
+    box-shadow: 5px 5px 20px;
+    width:30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    background-color: rgb(212, 233, 240);
+}
+.shelter{
+    box-shadow: 8px 8px 20px;
+    width:30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-right: 3%;
+    background-color: rgb(236, 212, 224);
+}
+.education{
+    box-shadow: 8px 8px 20px;
+    width:30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-right: 3%;
+    background-color: rgb(243, 227, 205);
+}
+.depend{
+    width: 40%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right:5%
+}
+.image{
+    padding-top: 10%;
+    padding-right:15% ;
+    padding-bottom: 15%;
+    width: 40%;
+    height: 5%;
+}
+#contribute{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(238, 11, 11),rgb(187, 28, 28));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}
+.need{
+    width: 50%;
+    padding-left:15% ;
+    padding-top: 1.5%;
+}
+.describe{
+   width: 60%;
+   padding-right: 15%; 
+}
+#last-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(238, 11, 11),rgb(187, 28, 28));
+    padding: 10px 40px; 
+    color:black;
+    font-weight: 700;
+    border-radius: 5px
+}
+.update{
+    text-align: center;
+    padding-top: 5%;
+}
+#subscribe{
+    background-color: rgb(216, 74, 74);
+}
+.humble{
+    background-image: url(images/end.jpg);
+    text-align: center;
+}
+h3{
+    color:red;
+}
